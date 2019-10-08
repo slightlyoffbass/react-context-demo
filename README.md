@@ -5,6 +5,7 @@ ___
 
 Context can be created by setting a default, or using Provider 
 Data can be accessed by this.context or Consumer
+- for multiple objects, Consumer must be used
 
 Context Diagram:
 
