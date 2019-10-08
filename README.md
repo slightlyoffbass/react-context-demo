@@ -1,5 +1,5 @@
 # React Context Demo
-This app is a
+This is a simple to demonstrate the use of context objects in react. 
 ___
 
 ### Tech Covered
