@@ -1,12 +1,7 @@
 # React Context Demo
 This is a simple to demonstrate the use of context objects in react. 
 ___
-
-### Tech Covered
-- tech here
-___
 ### Notes
-- notes here
-___
-### Links
-- links here
+
+![Context Diagram:]
+(https://github.com/slightlyoffbass/react-context-demo/blob/master/ContextDiagram.jpg)
