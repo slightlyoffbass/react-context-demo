@@ -6,7 +6,10 @@ ___
 Context can be created by setting a default or using Provider 
 - Data can be accessed by this.context or Consumer
 - for multiple objects, Consumer must be used
+- the branch "replacing-redux-with-context" looks at using context in place of redux
 
 Context Diagram:
 
 ![Context Diagram](https://github.com/slightlyoffbass/react-context-demo/blob/master/ContextDiagram2.jpg?raw=true)
+
+
